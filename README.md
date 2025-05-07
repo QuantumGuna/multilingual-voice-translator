@@ -84,7 +84,7 @@ python multilingual-voiceotranslation-code.py
 
 ## 📸 Demo / Screenshots
 
-*(You can add photos or videos of your project here.)*
+![Wiring Diagram](https://github.com/QuantumGuna/multilingual-voice-translator/main/wiring-diagram.png)
 
 ---
 
