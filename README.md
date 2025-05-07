@@ -82,9 +82,9 @@ python multilingual-voiceotranslation-code.py
 
 ---
 
-## 📸 Demo / Screenshots
+## 📸 Wiring Diagram
 
-![Wiring Diagram](https://github.com/QuantumGuna/multilingual-voice-translator/main/wiring-diagram.png)
+![Wiring Diagram](https://github.com/QuantumGuna/multilingual-voice-translator/blob/main/wiring-diagram.png)
 
 ---
 
@@ -94,7 +94,7 @@ python multilingual-voiceotranslation-code.py
 Final-Year B.Tech Engineering Student
 
 🔗 [LinkedIn](https://www.linkedin.com/in/gunasekharbathula/)  
-🔗 [GitHub](https://github.com/QuantumGuna)
+🔗 [GitHub](https://github.com/QuantumGuna)  
 🔗 [Instagram](https://www.instagram.com/mystery_mind_9_?igsh=OWlxNXk5aDljcmNk)
 
 ---
